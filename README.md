@@ -1,5 +1,5 @@
 # scrapy-acldownloader
-利用scrapy 爬虫框架 下载ACL会议论文 
+利用scrapy 爬虫框架 下载ACL会议论文   
 1.安装scrapy。  
 2.运行 main.py 需要修改文件中的年份。   
 也可以进入项目目录 打开命令行 输入 scrapy crawl acl  -a event=acl -a year=2020 爬取2020年的acl论文
